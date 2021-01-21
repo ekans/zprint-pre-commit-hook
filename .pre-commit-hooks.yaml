@@ -1,0 +1,5 @@
+- id: zprint
+  name: Clojure formatter [zprint]
+  entry: zprint -w
+  language: system
+  files: '\.clj$'
